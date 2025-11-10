@@ -1,0 +1,14 @@
+selenium
+pandas
+webdriver-manager
+requests
+bs4
+lxml
+urllib3
+certifi
+chardet
+idna
+urllib3
+certifi
+chardet
+idna
