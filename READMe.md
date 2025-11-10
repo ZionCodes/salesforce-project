@@ -11,8 +11,8 @@ Its purpose is to scrape the `azcarecheck.azdhs.gov` website to find the "Chief 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPO_URL]
-    cd [YOUR_REPO_NAME]
+    git clone https://github.com/ZionCodes/salesforce-project
+    cd salesforce-project
     ```
 
 2.  **Prepare Input Data:**
